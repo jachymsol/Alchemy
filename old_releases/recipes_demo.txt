@@ -1,0 +1,14 @@
+tlak = vzduch + vzduch
+ohen = kamen + kamen
+hlina = voda + zeme
+mlha = voda + vzduch
+rostlina = voda + hlina
+strom = voda + rostlina
+drevo = strom + kamen
+nastroj = drevo + kamen
+popel = drevo + ohen
+cihla = hlina + ohen
+zed = cihla + cihla
+dum = zed + zed
+povoden = voda + voda
+dest = voda + voda

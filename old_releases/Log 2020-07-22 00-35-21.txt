@@ -1,0 +1,27 @@
+2020-07-22 00:35:21: Starting session Log 2020-07-22 00-35-21.txt for team j
+2020-07-22 00:35:28: add kamen 1000
+2020-07-22 00:35:30: add voda 1000
+2020-07-22 00:35:32: add vzduch 1000
+2020-07-22 00:35:34: add zeme 1000
+2020-07-22 00:35:39: craft kamen kamen
+2020-07-22 00:35:43: craft voda zeme
+2020-07-22 00:35:46: craft voda hlina
+2020-07-22 00:35:50: craft voda rostlina
+2020-07-22 00:35:56: craft voda voda
+2020-07-22 00:35:58: craft voda rybnik
+2020-07-22 00:36:03: craft rostlina more
+2020-07-22 00:36:29: craft nastroj more
+2020-07-22 00:36:39: craft rostlina voda
+2020-07-22 00:36:43: craft kamen strom
+2020-07-22 00:36:48: craft drevo kamen
+2020-07-22 00:36:53: craft voda nastroj
+2020-07-22 00:36:58: craft ryba ryba
+2020-07-22 00:37:05: craft ohen zeme
+2020-07-22 00:37:51: craft ohen hlina
+2020-07-22 00:37:59: craft cihla cihla
+2020-07-22 00:38:05: craft zed zed
+2020-07-22 00:38:14: craft zivot zeme
+2020-07-22 00:38:19: craft dum zvire
+2020-07-22 00:38:25: craft statek zvire
+2020-07-22 00:38:30: craft ovce ovce
+2020-07-22 00:38:37: Inventory: {'kamen': 982, 'voda': 975, 'vzduch': 1000, 'zeme': 988, 'ohen': 0, 'hlina': 0, 'bahno': 1, 'rostlina': 0, 'strom': 0, 'rybnik': 0, 'more': 0, 'morska_rasa': 1, 'drevo': 0, 'nastroj': 0, 'ryba': 0, 'zivot': 0, 'cihla': 0, 'zed': 0, 'dum': 0, 'zvire': 0, 'statek': 0, 'ovce': 1}
